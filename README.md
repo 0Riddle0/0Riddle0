@@ -9,7 +9,7 @@
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
-<li> 🇧🇩 <i>Resident of Egypt</i></li>
+<li> 🇪🇬 <i>Resident of Egypt</i></li>
 <li> 😇 <i>Muslim</i></li>
 <li> 😐 <i>Studying at Kindergarten</i></li>
 <li> 😪 <i>Love Sleeping</i></li>
