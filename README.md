@@ -1,26 +1,39 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Mohsen</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<!-- Github README -->
+<p align="center"><a href="https://github.com/0Riddle0">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=0Riddle0&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/0Riddle0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Riddle0&layout=compact&theme=react&hide_border=true" />
+</a></p>
 
-<p align="left"> <a href="https://twitter.com/mr0riddle0" target="blank"><img src="https://img.shields.io/twitter/follow/mr0riddle0?logo=twitter&style=for-the-badge" alt="mr0riddle0" /></a> </p>
+<h2><b><i>Howdy , it's Abdelrahman Mohsen 👋</i></b></h2>
+<b><i>💻 I'm a Student & A part time Programmer</i></b>
 
-- 🌱 I’m currently learning **Frameworks**
+<h3><b><i>🤠 About me :</i></b></h3>
+<li> 🇧🇩 <i>Resident of Egypt</i></li>
+<li> 😇 <i>Muslim</i></li>
+<li> 😐 <i>Studying at Kindergarten</i></li>
+<li> 😪 <i>Love Sleeping</i></li>
+<li> 💔 <i>Born Single</i></li>
+<li> 🐍 <i>Trying to learn Frameworks & SQLI</i></li>
+<li> 🤐 <i>Aim : Become a Software Engineer</i></li>
 
-- 🔭 My Religion**Muslim
+<h3><b><i>☠ Works :</i></b></h3>
+<li> <a href="https://github.com/0Riddle0/zphisher">Zphisher - Automated Phishing Tool with 30+ Unique Phishing Templates.</a>
+<li> <a href="https://github.com/0Riddle0/nexphisher">NexPhisher - Advanced Phishing Tool with Unique Phishing Templates.</a>
+<li> <a href="https://github.com/hax0rtahm1d/Reverse-Engineering">Reverse Engineering - Some Tools Reverse Engineered by me.</a>
+<li> <a href="https://github.com/0Riddle0/host">Host - Temporarily Host Files from your device with this tool.</a>
+<li> <a href="https://github.com/0Riddle0/track-ip">Track-IP - An IP Tracking Tool written in Bash.</a>
+<li> <a href="https://github.com/modded-ubuntu/modded-ubuntu">Modded Ubuntu - Run Ubuntu GUI on termux based on Proot-Distro.</a>
 
-- 💬 Ask me about **React,Linux,Termux**
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/0Riddle0"><img width=550 src="https://github-profile-trophy.vercel.app/?username=0Riddle0&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-- 📫 How to reach me **tervcc@gmail.com**
+<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<a href="https://github.com/0Riddle0"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=0Riddle0&color=blueviolet&style=flat-square"></a>
 
-- ⚡ Fun fact **I Think I Will Be Engineer**
+<h3><b><i>📡 Get in Touch :</i></b></h3>
+<a href="https://github.com/0Riddle0"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
+<a href="https://fb.com/bbrruuxx"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
+<a href="https://m.me/bbrruuxx"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
+<a href="https://www.instagram.com/_mohsenetoo_"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mr0riddle0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mr0riddle0" height="30" width="40" /></a>
-<a href="https://fb.com/bbrruuxx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bbrruuxx" height="30" width="40" /></a>
-<a href="https://instagram.com/_mohsenetoo_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_mohsenetoo_" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0riddle0&show_icons=true&locale=en" alt="0riddle0" /></p>
