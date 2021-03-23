@@ -18,12 +18,12 @@
 <li> 🤐 <i>Aim : Become a Software Engineer</i></li>
 
 <h3><b><i>☠ Works :</i></b></h3>
-<li> <a href="https://github.com/0Riddle0/zphisher">Zphisher - Automated Phishing Tool with 30+ Unique Phishing Templates.</a>
-<li> <a href="https://github.com/0Riddle0/nexphisher">NexPhisher - Advanced Phishing Tool with Unique Phishing Templates.</a>
-<li> <a href="https://github.com/hax0rtahm1d/Reverse-Engineering">Reverse Engineering - Some Tools Reverse Engineered by me.</a>
-<li> <a href="https://github.com/0Riddle0/host">Host - Temporarily Host Files from your device with this tool.</a>
-<li> <a href="https://github.com/0Riddle0/track-ip">Track-IP - An IP Tracking Tool written in Bash.</a>
-<li> <a href="https://github.com/modded-ubuntu/modded-ubuntu">Modded Ubuntu - Run Ubuntu GUI on termux based on Proot-Distro.</a>
+<li> <a href="https://github.com/0Riddle0/cam-hack">Cam Hack - Get IP Of Any Camera Around 90 Countries.</a>
+<li> <a href="https://github.com/0Riddle0/dolce">Dolce - Tools Library Contain 370 Tool.</a>
+<li> <a href="https://github.com/0Riddle0/T-Lazy">T-Lazy - A Script For All The Termux Script-Kiddies Out There.</a>
+<li> <a href="https://github.com/0Riddle0/fbi-tool">FBI TOOL - Simple Python Tool To Get Facebook Accounts Informations.</a>
+<li> <a href="https://github.com/0Riddle0/track0ip">Track IP - An IP Tracking Tool written in Bash.</a>
+<li> <a href="https://github.com/0Riddle0/ccgen">Credit Card Gen - Generate a Fake CC With Informations.</a>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/0Riddle0"><img width=550 src="https://github-profile-trophy.vercel.app/?username=0Riddle0&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
